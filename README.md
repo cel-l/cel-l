@@ -25,5 +25,6 @@ Modular Gorilla Tag voice assistant mod
 Work in progress
 
 <p align="center">
-    <i>“super cool quote obviously - cel”</i>
+    <i>“super cool quote obviously” - cel</i>
 </p>
+
