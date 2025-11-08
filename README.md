@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./assets/banner.png" alt="Profile banner" width="1280" height="320" style="max-width:100%; height:auto;">
+  <img src="./assets/banner_new.png" alt="Profile banner" width="1280" height="600" style="max-width:100%; height:auto;">
 </p>
 
 <p align="center">
@@ -26,4 +26,5 @@ Work in progress
 
 <p align="center">
     <i>“The tools we build reflect the minds that craft them.”</i>
+
 </p>
