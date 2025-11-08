@@ -25,7 +25,5 @@ Modular Gorilla Tag voice assistant mod
 Work in progress
 
 <p align="center">
-    <i>“The tools we build reflect the minds that craft them.”</i>
-
+    <i>“super cool quote obviously - cel”</i>
 </p>
-
