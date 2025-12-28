@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./assets/banner_new.jpg" alt="Profile banner" width="1280" height="400" style="max-width:100%; height:auto;">
+  <img src="./assets/banner_new.jpg" alt="Profile banner" width="1200" height="800" style="max-width:100%; height:auto;">
 </p>
 
 <p align="center">
@@ -10,5 +10,6 @@
 <p align="center">
     <i>“super cool quote obviously” - cel</i>
 </p>
+
 
 
